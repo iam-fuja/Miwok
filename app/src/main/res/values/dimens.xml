@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="textview_margin">4dp</dimen>
+    <dimen name="list_item_play_height">24dp</dimen>
+</resources>
